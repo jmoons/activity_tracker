@@ -1,0 +1,30 @@
+Activity Tracker requirements
+1) Allow activities to be input by user
+    1a) Date
+    1b) Location
+    1c) Distance
+    1d) Total Time
+    1e) Pace (calculated)
+    1e) Type
+    1f) Estimated Calorie Burn
+    1g) Shoe used
+
+2) Show Summary Widgets
+    2a) Current Week, Month, Year, Lifetime
+        2a1) Total Time (hh:mm:ss)
+        2a2) Total Distance (miles)
+        2a3) Total Calorie Burn
+        2a4) Number of Runs
+        2a5) Number of Walks
+    2b) Shoe Summary
+        2b1) Number of activities
+        2b2) Number of Runs
+        2b3) Number of Walks
+        2b4) Lifetime Miles
+
+3) Shoe Management
+    3a) Add New Shoe
+        3a1) Shoe Manufacturer
+        3a2) Shoe Model
+        3a3) Shoe Nickname
+    3b) Retire Shoe
